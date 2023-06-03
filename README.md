@@ -37,8 +37,8 @@ mv .env.example .env
 - Create an account
 - Create a new project
 
-## 7. Supabase and clerk walkthrough
-- To use supabase and clerk properly this article will help you so match to understand how this 2 services work to gether: [NextJS + Supabase + Clerk: Build a simple todo app with multifactor authentication](https://clerk.com/blog/nextjs-supabase-todos-with-multifactor-authentication)
+## 7. Supabase and Clerk walkthrough
+- To properly use Supabase and Clerk, this article will help you understand how these two services work together: [NextJS + Supabase + Clerk: Build a simple todo app with multifactor authentication](https://clerk.com/blog/nextjs-supabase-todos-with-multifactor-authentication)
 
 ## 8. Add your keys to the .env
 ```
