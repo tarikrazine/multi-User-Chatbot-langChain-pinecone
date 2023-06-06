@@ -1,7 +1,7 @@
 # Next.js Multi-User Chatbot with LangChainAI and Pinecone
 
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/hbFuBZ7LUZY/maxresdefault.webp?v=647d1366&sqp=CMCl9KMG&rs=AOn4CLCZYY1E-jm9mmOL9hwd44b682hdFA)](https://youtu.be/hbFuBZ7LUZY)
+[![Watch the video](https://i9.ytimg.com/vi_webp/hbFuBZ7LUZY/maxresdefault.webp?v=647d1366&sqp=CLTW_qMG&rs=AOn4CLCVUvFSiK-Hwocyw7rPk7MsYm8sjw)](https://youtu.be/hbFuBZ7LUZY)
 
 ### Credit to: **Roie Schwaber-Cohen** from Pinecone. Please check out this beautiful article: [Building a Multi-User Chatbot with Langchain and Pinecone in Next.JS](https://www.pinecone.io/learn/javascript-chatbot/)
 
